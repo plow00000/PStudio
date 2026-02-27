@@ -23,15 +23,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Switchboard",
-			"Enabled": true
-		},
-		{
 			"Name": "WebBrowserWidget",
-			"Enabled": true
-		},
-		{
-			"Name": "PixelStreaming2",
 			"Enabled": true
 		}
 	]
